@@ -2,7 +2,7 @@
 Prepare, Train, and Evaluate a Logistic Regression model to predict the likelihood that a bank's liability customer would buy a personal loan.
 
 ### Objective:
-- The classification goal is to predict the likelihood of a liability customer buying personal loans.
+- The classification goal is to predict the likelihood of a liability customer buying personal loans using Python.
 - Demonstrate Exploratory Data Analysis
 - Prepare the data to train a model
 - Train and make predictions using a classification model
