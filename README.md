@@ -1,16 +1,12 @@
-# Personal_Loan_Campaign_Logistic_Regression
+# Personal Loan Campaign Logistic Regression
 Prepare, Train, and Evaluate a Logistic Regression model to predict the likelihood that a bank's liability customer would buy a personal loan.
 
-
-### Objectives:
+### Objective:
 - The classification goal is to predict the likelihood of a liability customer buying personal loans.
 - Demonstrate Exploratory Data Analysis
 - Prepare the data to train a model
 - Train and make predictions using a classification model
 - Evaluate model
-
-### Context:
-This case is about a bank (Thera Bank) whose management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a healthy conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with a minimal budget.
 
 ### Data Description:
 The dataset contains data on 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage, securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan). Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.
@@ -30,7 +26,6 @@ The dataset contains data on 5000 customers. The data include customer demograph
 - CD Account: Does the customer have a certificate of deposit (CD) account with the bank?
 - Online: Does the customer use internet banking facilities?
 - Credit card: Does the customer use a credit card issued by the bank?
-
 
 ### Steps and tasks:
 1) Import the datasets and libraries, check datatype, statistical summary, shape, null values or incorrect imputation.
